@@ -13,7 +13,7 @@ a Wallhack Shader made in Unity for ChilloutVR
 6. You done, have fun!
 
 
-![Alt text](pictures/3.png =120x)
+![Alt text](pictures/3.png?raw=true =120x)
 
 
 ## Example: How to make the shader visible in the Editor
