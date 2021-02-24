@@ -16,5 +16,5 @@ a Wallhack Shader made in Unity for ChilloutVR
 ## Example: How to make the shader visible in the Editor
 ![Alt text](pictures/1.png?raw=true "Example 1")
 
-## Example: Poiyomi-Toon Shader Settings
+## Example: Poiyomi-Toon Shader Settings for the Avatar
 ![Alt text](pictures/2.png?raw=true "Example 2")
