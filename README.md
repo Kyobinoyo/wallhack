@@ -3,6 +3,8 @@
 a Wallhack Shader made in Unity for ChilloutVR
 
 
+[### Download](/shader/Kyobinoyos-Wallhack-Shader-V1.unitypackage)
+
 
 ## How To Use:
 1. Drag and Drop the Wallhack Prefab (/Kyobinoyo/Wallhack-V1/Prefab/) into you Avatars Root Object (The one with CVRAvatar on it).
