@@ -8,4 +8,4 @@ How To Use:
 4. Make a Name Texture (example: 600x300) and put it on the Nameplate Material (/Kyobinoyo/Wallhack-V1/Materials/).
 5. You done, have fun!
 
-![example1](https://github.com/Kyobinoyo/wallhack/pictures/1.png?raw=true)
+![Alt text](pictures/1.png?raw=true "Example 1")
