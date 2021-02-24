@@ -1,8 +1,10 @@
-#Kyobinoyos Wallhack Shader
+# Kyobinoyos Wallhack Shader
 
 a Wallhack Shader made in Unity for ChilloutVR
 
-How To Use:
+
+
+## How To Use:
 1. Drag and Drop the Wallhack Prefab (/Kyobinoyo/Wallhack-V1/Prefab/) into you Avatars Root Object (The one with VCRAvatar on it).
 2. Create a Cube and drag it in front of your Avatar so you can see the Shader while editing.
 3. Resize the Prefab to the Size of your Avatar.
@@ -11,8 +13,8 @@ How To Use:
 6. You done, have fun!
 
 
-#Example: How to make the shader visible in the Editor
+## Example: How to make the shader visible in the Editor
 ![Alt text](pictures/1.png?raw=true "Example 1")
 
-#Example: Poiyomi-Toon Shader Settings
+## Example: Poiyomi-Toon Shader Settings
 ![Alt text](pictures/2.png?raw=true "Example 2")
