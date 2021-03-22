@@ -3,7 +3,7 @@
 a Wallhack Shader made in Unity for ChilloutVR
 
 
-[Download](/shader/Kyobinoyos-Wallhack-Shader-V1.unitypackage)
+[Download](https://github.com/Kyobinoyo/wallhack/releases/tag/1.0)
 
 
 ## How To Use:
